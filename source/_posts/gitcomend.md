@@ -1,9 +1,15 @@
 ---
 title: Git常用命令
 date: 2023-06-20 22:53:25
+cover: https://mp-6fc29f3f-14dc-4d29-99e1-a8caab6a2c40.cdn.bspapp.com/博客图片/R-C.png
+top_img: https://mp-6fc29f3f-14dc-4d29-99e1-a8caab6a2c40.cdn.bspapp.com/博客图片/R-C.png
+categories:
+- Git
+- Git常用命令
 tags:
+- 基础
+- Git常用
 ---
-11
 | 目的 | GIT命令 |
 | ---- | ------- |
 | 第一次初始化仓库 | `git init`<br>`git add .`<br>`git commit -m [描述字体，例如 "first commit "]`<br>`git remote add origin [仓库地址]`<br>`git push -u origin [分支名称，一般第一次有默认的master]` |

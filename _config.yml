@@ -3,12 +3,15 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 大黑的博客
 subtitle: ''
-description: ''
+description: '这里是我的一席之地'
 keywords:
-author: John Doe
-language: en
+author: 大黑
+language:
+- zh-CN
+- zh-TW
+- en
 timezone: ''
 
 # URL
