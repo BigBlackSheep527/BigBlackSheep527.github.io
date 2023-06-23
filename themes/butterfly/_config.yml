@@ -456,7 +456,7 @@ valine:
 # waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
 waline:
-  serverURL: https://my-comment-b3ioo8rid-bigblacksheep527.vercel.app/
+  serverURL: https://my-comment-b3ioo8rid-bigblacksheep527.vercel.app  # 后面千万不要加“/"
   bg:  waline background
   pageview: false
   option:
