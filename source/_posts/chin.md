@@ -1,10 +1,10 @@
 ---
 title: chin
 date: 2023-06-23 00:01:18
-copyright_author: chinyan
+copyright_author: 来着用户chinyan的文章
 copyright_author_href: https://chinyan.top/posts/62832/
 copyright_url: https://chinyan.top/posts/62832/
-copyright_info: 此文章版权归chinyan所有，如有转载，请注明来自原作者
+copyright_info: 此文章版权归chinyan所有，如有转载,,请注明来自原作者
 comments: true
 ---
 [](# "开始之前的准备")开始之前的准备

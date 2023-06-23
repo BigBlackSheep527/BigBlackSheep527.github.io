@@ -16,7 +16,7 @@ menu:
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
-  # Link: /link/ || fas fa-link
+  说说: /artitalk/ || fas fa-link
   # About: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
@@ -44,7 +44,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://7463-tcb-eypi2jd4nbecbmi-0cnocf4a7bfb-1317614120.tcb.qcloud.la/6e6ef34f-69ff-4789-9e0c-da387f25ffdf.png
+  img: https://fc-mp-6fc29f3f-14dc-4d29-99e1-a8caab6a2c40.next.bspapp.com/avatar.jpeg
   effect: false
 
 # Disable all banner image
@@ -230,8 +230,8 @@ aside:
     button:
       enable: true
       icon: fab fa-github
-      text: Follow Me
-      link: https://github.com/xxxxxx
+      text: 代码仓库
+      link: https://gitee.com/daheiyang/big_black.gitub.io
   card_announcement:
     enable: true
     content: 新人报告，小生有礼了~
@@ -839,7 +839,7 @@ pjax:
 
 # Inject the css and script (aplayer/meting)
 aplayerInject:
-  enable: false
+  enable: true
   per_page: true
 
 # Snackbar (Toast Notification 彈窗)
@@ -871,6 +871,14 @@ lazyload:
   blur: false
   loadingImg: https://mp-6fc29f3f-14dc-4d29-99e1-a8caab6a2c40.cdn.bspapp.com/博客图片/134717pUY.jpg
 
+artitalk:
+    enable: true
+    appId: bJZPM4V6sYdnXdI0CMRbbPFT-MdYXbMMI
+    appKey: zYvUd06bd8HpALAoULHgC6fc
+    path:
+    js:
+    option:
+    front_matter:
 # PWA
 # See https://github.com/JLHwung/hexo-offline
 # ---------------
@@ -905,7 +913,7 @@ inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
-    # - <script src="xxxx"></script>
+    - <div class="aplayer no-destroy" data-id="2238403960" data-server="netease" data-volume="0.5" data-listfolded="true"  data-order="random" data-type="playlist" data-fixed="true" data-mini="true" data-autoplay="true" data-preload="auto"> </div>
 
 # CDN
 # Don't modify the following settings unless you know how they work

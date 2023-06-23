@@ -14,6 +14,10 @@ language:
 - en
 timezone: ''
 
+aplayer:
+  meting: true
+  asset_inject: false
+
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://bigblacksheep527.github.io
@@ -102,6 +106,12 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: butterfly
 
+lazyload:
+  enable: true
+  onlypost: false
+  loadingImg: /images/loading.png
+
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
@@ -113,3 +123,5 @@ deploy:
     repo: git@gitee.com:daheiyang/big_black.gitub.io.git
     branch: main
     token: cb748a7f015ee58ebf5211c30c302e4c
+
+
