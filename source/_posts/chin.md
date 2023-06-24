@@ -1,11 +1,14 @@
 ---
-title: chin
+title: 来着用户chinyan的文章
 date: 2023-06-23 00:01:18
 copyright_author: 来着用户chinyan的文章
 copyright_author_href: https://chinyan.top/posts/62832/
 copyright_url: https://chinyan.top/posts/62832/
 copyright_info: 此文章版权归chinyan所有，如有转载,,请注明来自原作者
 comments: true
+top_img: https://mp-6fc29f3f-14dc-4d29-99e1-a8caab6a2c40.cdn.bspapp.com/博客图片/彭于晏.jpeg
+cover: https://mp-6fc29f3f-14dc-4d29-99e1-a8caab6a2c40.cdn.bspapp.com/博客图片/彭于晏.jpeg
+
 ---
 [](# "开始之前的准备")开始之前的准备
 ----------------------
