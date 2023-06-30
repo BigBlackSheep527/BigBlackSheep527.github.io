@@ -120,7 +120,7 @@ deploy:
     branch: main
     token: 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
   - type: 'git'
-    repo: git@gitee.com:daheiyang/big_black.gitub.io.git
+    repo: git@gitee.com:daheiyang/daheiyang
     branch: main
     token: cb748a7f015ee58ebf5211c30c302e4c
 
