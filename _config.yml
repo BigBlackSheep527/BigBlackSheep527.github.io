@@ -116,7 +116,7 @@ lazyload:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   - type: 'git'
-    repo: git@github.com:BigBlackSheep527/BigBlackSheep527.github.io.git
+    repo: git@github.com:BigBlackSheep527/BigBlackShee9527.github.io.git
     branch: main
     token: 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
   - type: 'git'
