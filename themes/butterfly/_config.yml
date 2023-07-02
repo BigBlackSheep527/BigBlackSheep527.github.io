@@ -533,8 +533,8 @@ chatra:
 # tidio
 # https://www.tidio.com/
 tidio:
-  enable: true
-  public_key: mt3xsibp7y3cwpalp9aesvogub52icd3
+  enable: false
+  # public_key: mt3xsibp7y3cwpalp9aesvogub52icd3
 
 # daovoice
 # http://dashboard.daovoice.io/app
