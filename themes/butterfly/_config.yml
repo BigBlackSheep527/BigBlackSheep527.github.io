@@ -283,6 +283,8 @@ newest_comments:
   enable: true
   sort_order: # Don't modify the setting unless you know how it works
   avatar: true
+  storage: 10
+  limit: 6
 
 # Bottom right button (右下角按鈕)
 # --------------------------------------
@@ -403,7 +405,7 @@ addtoany:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
-  use:  Livere
+  use:  Waline
   text: false # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
@@ -454,7 +456,7 @@ valine:
 # waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
 waline:
-  serverURL: https://my-comment-b3ioo8rid-bigblacksheep527.vercel.app  # 后面千万不要加“/"
+  serverURL: https://www.apichat.buzz  # 后面千万不要加“/"
   bg:  waline background
   pageview: false
   option:
