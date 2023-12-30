@@ -6,8 +6,8 @@ categories:
 tags:
 - Ubuntu 16
 - 双显卡安装教程
-top_img: https://mp-6fc29f3f-14dc-4d29-99e1-a8caab6a2c40.cdn.bspapp.com/博客图片/ubuntu.jpeg
-cover: https://mp-6fc29f3f-14dc-4d29-99e1-a8caab6a2c40.cdn.bspapp.com/博客图片/ubuntu.jpeg
+top_img: https://mp-34802e5d-78f8-44c6-8138-463f8ec9869b.cdn.bspapp.com/博客图片/ubuntu.jpeg
+cover: https://mp-34802e5d-78f8-44c6-8138-463f8ec9869b.cdn.bspapp.com/博客图片/ubuntu.jpeg
 ---
 <!DOCTYPE html>
 <html>

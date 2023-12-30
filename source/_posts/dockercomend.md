@@ -1,8 +1,8 @@
 ---
 title: docker常用命令
 date: 2023-06-22 21:20:16
-top_img: https://mp-6fc29f3f-14dc-4d29-99e1-a8caab6a2c40.cdn.bspapp.com/博客图片/docker.png
-cover: https://mp-6fc29f3f-14dc-4d29-99e1-a8caab6a2c40.cdn.bspapp.com/博客图片/docker.png
+top_img: https://mp-34802e5d-78f8-44c6-8138-463f8ec9869b.cdn.bspapp.com/博客图片/docker.png
+cover: https://mp-34802e5d-78f8-44c6-8138-463f8ec9869b.cdn.bspapp.com/博客图片/docker.png
 categories:
 - docker
 - docker常用命令

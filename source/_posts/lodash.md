@@ -4,8 +4,8 @@ date: 2023-06-24 11:53:03
 tags:
 - lodash
 - 常用
-top_img: https://mp-6fc29f3f-14dc-4d29-99e1-a8caab6a2c40.cdn.bspapp.com/博客图片/lodash.png
-cover: https://mp-6fc29f3f-14dc-4d29-99e1-a8caab6a2c40.cdn.bspapp.com/博客图片/lodash.png
+top_img: https://mp-34802e5d-78f8-44c6-8138-463f8ec9869b.cdn.bspapp.com/博客图片/lodash.png
+cover: https://mp-34802e5d-78f8-44c6-8138-463f8ec9869b.cdn.bspapp.com/博客图片/lodash.png
 ---
 <a name="dOB5s"></a>
 ### 1.去虚函数

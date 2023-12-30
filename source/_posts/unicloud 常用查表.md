@@ -3,8 +3,8 @@ title: unicloud 常用查表
 tags:
 - unicloud
 - 常用查表
-top_img: https://mp-6fc29f3f-14dc-4d29-99e1-a8caab6a2c40.cdn.bspapp.com/博客图片/uniCloud.png
-cover: https://mp-6fc29f3f-14dc-4d29-99e1-a8caab6a2c40.cdn.bspapp.com/博客图片/uniCloud.png
+top_img: https://mp-34802e5d-78f8-44c6-8138-463f8ec9869b.cdn.bspapp.com/博客图片/uniCloud.png
+cover: https://mp-34802e5d-78f8-44c6-8138-463f8ec9869b.cdn.bspapp.com/博客图片/uniCloud.png
 ---
 ```javascript
 // 直接关联多个表为虚拟联表再进行查询，旧写法，目前更推荐使用getTemp进行联表查询

@@ -44,14 +44,14 @@ favicon: /img/dog.png
 
 # Avatar (頭像)
 avatar:
-  img: https://fc-mp-6fc29f3f-14dc-4d29-99e1-a8caab6a2c40.next.bspapp.com/avatar.jpeg
+  img: https://fc-mp-34802e5d-78f8-44c6-8138-463f8ec9869b.next.bspapp.com/avatar.jpeg
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://mp-6fc29f3f-14dc-4d29-99e1-a8caab6a2c40.cdn.bspapp.com/博客图片/v2-c6ae9c3aff36b9b221258f6a90577902_r.jpg
+index_img: https://mp-34802e5d-78f8-44c6-8138-463f8ec9869b.cdn.bspapp.com/博客图片/v2-c6ae9c3aff36b9b221258f6a90577902_r.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
@@ -871,7 +871,7 @@ lazyload:
   field: site # site/post
   placeholder:
   blur: false
-  loadingImg: https://mp-6fc29f3f-14dc-4d29-99e1-a8caab6a2c40.cdn.bspapp.com/博客图片/134717pUY.jpg
+  loadingImg: https://mp-34802e5d-78f8-44c6-8138-463f8ec9869b.cdn.bspapp.com/博客图片/134717pUY.jpg
 
 artitalk:
     enable: true
